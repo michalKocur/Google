@@ -21,11 +21,11 @@
 		}
 	],
 	"require": {
-		"nette/nette": "^2.4",
+		"nette/nette": "*",
 
 		"ext-curl": "*",
 		"ext-json": "*",
-		"google/apiclient": "~1.1"
+		"google/apiclient": "~2.0"
 	},
 	"require-dev": {
 		"nette/tester": "@dev",
